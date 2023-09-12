@@ -439,3 +439,37 @@ p {
 p a{
     color: #f2f2f2;
 }
+/* style acordeon */
+.contenedor-acordeon{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 700px;
+    padding: 40px;
+    background:   #860606;
+    /* centrar */
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.contenedor-acordeon summary{
+   
+    color: black;
+    padding: 20px;
+    /* eliminar las biñetas del summary */
+    list-style: none;
+    background: white;
+    font-size: 20px;
+
+}
+
+.contenedor-acordeon p{
+    padding: 10px;
+    background: white;
+    color: black;
+
+}
+/* style acordeon fin*/

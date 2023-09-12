@@ -325,6 +325,8 @@ body {
   .tarjeta img {
     max-width: 100%;
     height: auto;
+    width: 250px;
+    height: 250px;
   }
   
   h3 {
@@ -383,4 +385,12 @@ div button{
 div button:hover{
     background-color: #c54b4b;
     color: #050000;
+}
+.titul {
+    color:black;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Shrikhand', cursive;
+    font-family: 'Tilt Prism', cursive;
+    padding: 20px;
+    text-align: center;
 }
