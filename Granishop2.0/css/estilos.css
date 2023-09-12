@@ -462,7 +462,7 @@ p a{
     /* eliminar las biñetas del summary */
     list-style: none;
     background: white;
-    font-size: 20px;
+    font-size: 15px;
 
 }
 
@@ -473,3 +473,7 @@ p a{
 
 }
 /* style acordeon fin*/
+.pi{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
